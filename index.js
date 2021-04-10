@@ -1,4 +1,4 @@
-let icon = document.getElementById("my-img");
+let icon = document.getElementById("icon");
 let display = document.getElementById("uls");
 
 document.addEventListener("DOMContentLoaded", () => {
